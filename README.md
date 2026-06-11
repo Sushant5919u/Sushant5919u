@@ -341,6 +341,7 @@ open_to:
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -350,3 +351,9 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,12,20,24,30"/>
 
 </div>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sushant5919u/Sushant5919u/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
