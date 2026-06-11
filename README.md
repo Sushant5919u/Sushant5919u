@@ -70,13 +70,7 @@ Currently focused on building practical AI applications that solve real-world pr
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sqlite" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,sqlite" />
 </p>
 
 ### Backend & Databases
